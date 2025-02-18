@@ -40,8 +40,8 @@ Before running the application, ensure you have the following prerequisites:
 Clone the repository to your local machine:
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/unnati-14/GreenLife-Foods-AI-Agent.git
+cd https://github.com/unnati-14/GreenLife-Foods-AI-Agent.git
 ```
 
 ---
