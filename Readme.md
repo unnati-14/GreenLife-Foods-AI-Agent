@@ -41,7 +41,7 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/unnati-14/GreenLife-Foods-AI-Agent.git
-cd https://github.com/unnati-14/GreenLife-Foods-AI-Agent.git
+cd GreenLife-Foods-AI-Agent
 ```
 
 ---
